@@ -3,10 +3,10 @@
 July 2021
 Institute of Computer Science (IC) at State University of Campinas (Unicamp). 
 
-Dorival Junior da Silva - 215076
-Elisa Dell'Arruda - 
-Felipe Pereira - 
-Ian Loron de Almeida - 198933
+Elisa Dell’Arriva             - 135551
+Ian Loron de Almeida          - 198933
+Dorival Alves da Silva Junior - 215076
+Felipe De Carvalho Pereira    - 230214
 
  
 
